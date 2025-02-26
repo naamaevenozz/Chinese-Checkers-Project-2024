@@ -1,0 +1,9 @@
+Chinese checkers by Naama Even Oz - Game Log
+4
+Chinese checkers by Naama Even Oz - Game Log
+Player: ew. Color: blue. Selected button: Selected piece at (3, 13). Destination button: (4, 14)
+Player: ewe. Color: yellow. Selected button: Selected piece at (13, 9). Destination button: (12, 10)
+Chinese checkers by Naama Even Oz - Game Log
+Game preparation started at: 2024-05-14 20:54:30.940323
+Game preparation started at: 2024-05-14 20:55:17.524913
+Chinese checkers by Naama Even Oz - Game Log
